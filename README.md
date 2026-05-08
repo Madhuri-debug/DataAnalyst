@@ -1,20 +1,30 @@
 # Data Analyst Portfolio
 
-## Global Sales Analysis Dashboard
+## Project 1: Global Sales Analysis Dashboard
 
-Interactive Power BI dashboard for analyzing global sales performance.
+An interactive Power BI dashboard built for analyzing global sales performance across multiple countries and product categories.
 
 ### Tools Used
 
 * Power BI
 * Data Visualization
 
-### Features
+### Dashboard Features
 
-* Revenue KPI
-* Country-wise sales comparison
-* Monthly trend analysis
-* Product category insights
+* Total Revenue KPI
+* Country-wise Sales Comparison
+* Monthly Revenue Trend
+* Top Product Categories
+* Interactive Country Filter
+
+## Dashboard Preview
 
 ![Dashboard Preview](Global Sales Analysis Dashboard Screenshot.png)
 
+## Business Insights
+
+This dashboard helps identify:
+
+* High-performing countries
+* Sales trends over time
+* Best-selling product categories
